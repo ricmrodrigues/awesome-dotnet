@@ -732,6 +732,7 @@ metadata in media files, including video, audio, and photo formats
 * [Kafka Client](https://github.com/Microsoft/CSharpClient-for-Kafka) - .Net implementation of the Apache Kafka Protocol that provides basic functionality through Producer/Consumer classes.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#queues) - A common interface with in memory, redis and azure implementations.
 * [Kafunk](https://github.com/jet/kafunk) - F# Kafka client from Jet
+* [Brighter](https://brightercommand.github.io/Brighter/) - Command Dispatcher, Processor, and Distributed Task Queue
 
 ## Reactive Programming
 
